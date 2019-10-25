@@ -1,0 +1,19 @@
+{
+ "members" : [
+     {"fullname" : "Anika van deBerg",
+      "signature": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Joachim_Gaucks_signature.svg/800px-Joachim_Gaucks_signature.svg.png"
+     },
+     {"fullname" : "Sabrina Miller",
+        "signature": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Meryl_Streep_Signature.svg/800px-Meryl_Streep_Signature.svg.png"
+     },
+     {"fullname" : "Martin Wright",
+        "signature": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/GeorgeWBush_Signature.svg/475px-GeorgeWBush_Signature.svg.png"
+     },
+     {"fullname" : "Luke Williams",
+        "signature": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lech_Walesa_Signature.svg/215px-Lech_Walesa_Signature.svg.png"
+     },
+     {"fullname" : "Sai Patel",
+        "signature": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Recep_Tayyip_Erdo%C4%9Fan_signature.png"
+     }
+ ]
+}

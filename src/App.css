@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App img {
+width: 200px;
+margin: auto;
+}
+
+.App a{
+text-decoration: none!important;
+}
+.App .information {
+margin-top: 3vh!important;
+}
+.App .information Button{
+  font-size: 14px;
+  background: #343a40;
+  padding: 14px 24px;
+  width: 200px;
+  display: inline-block;
+  color: white !important; 
+  margin-top: 2vh;
+}
+.App .cartas{
+margin-top: 2vh;
+}
